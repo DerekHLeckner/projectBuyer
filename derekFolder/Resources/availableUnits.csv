@@ -1,302 +1,302 @@
 ,date,unitName,sqrFt,price,availableDate,bdr,bthr,flr,features,apt_views,hasSpecial,building,company
-0,02-06-22,Apartment 03T,550,3396,Now,0,1,3,"Quartz countertops
+0,02-06-22,Apartment 03T,550,3396,Now,0,1.0,3,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",46,0,Hanover Square,UDR
-1,02-06-22,Apartment 07S,556,3496,Now,0,1,7,"West view
+1,02-06-22,Apartment 07S,556,3496,Now,0,1.0,7,"West view
 Quartz countertops
 Gray wood plank flooring",21,0,Hanover Square,UDR
-2,02-06-22,Apartment 12T,550,3491,Now,0,1,12,"Quartz countertops
+2,02-06-22,Apartment 12T,550,3491,Now,0,1.0,12,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",14,0,Hanover Square,UDR
-3,02-06-22,Apartment 18S,556,3386,Now,0,1,18,"West view
+3,02-06-22,Apartment 18S,556,3386,Now,0,1.0,18,"West view
 Gas stove
 Breakfast bar",22,0,Hanover Square,UDR
-4,02-06-22,Apartment 19T,550,3436,Now,0,1,19,"Stainless steel appliances
+4,02-06-22,Apartment 19T,550,3436,Now,0,1.0,19,"Stainless steel appliances
 Gas stove
 Breakfast bar",13,0,Hanover Square,UDR
-5,02-06-22,Apartment 15N,581,3386,2/11/2022,0,1,15,"West view
+5,02-06-22,Apartment 15N,581,3386,2/11/2022,0,1.0,15,"West view
 Gas stove
 Breakfast bar",22,0,Hanover Square,UDR
-6,02-06-22,Apartment 21S,556,3461,2/11/2022,0,1,21,"West view
+6,02-06-22,Apartment 21S,556,3461,2/11/2022,0,1.0,21,"West view
 Gas stove
 Breakfast bar",12,0,Hanover Square,UDR
-7,02-06-22,Apartment 16X,431,3284,2/25/2022,0,1,16,"Quartz countertops
+7,02-06-22,Apartment 16X,431,3284,2/25/2022,0,1.0,16,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",32,0,Hanover Square,UDR
-8,02-06-22,Apartment 17Z,837,4271,2/25/2022,0,1,17,"Stackable washer and dryer
+8,02-06-22,Apartment 17Z,837,4271,2/25/2022,0,1.0,17,"Stackable washer and dryer
 Quartz countertops
 Gray wood plank flooring",30,0,Hanover Square,UDR
-9,02-06-22,Apartment 19N,581,3781,3/4/2022,0,1,19,"West view
+9,02-06-22,Apartment 19N,581,3781,3/4/2022,0,1.0,19,"West view
 Quartz countertops
 Gray wood plank flooring",15,0,Hanover Square,UDR
-10,02-06-22,Apartment 14P,557,3411,3/5/2022,0,1,14,"West view
+10,02-06-22,Apartment 14P,557,3411,3/5/2022,0,1.0,14,"West view
 Stainless steel appliances
 Gas stove",12,0,Hanover Square,UDR
-11,02-06-22,Apartment 21P,557,3731,3/5/2022,0,1,21,"West view
+11,02-06-22,Apartment 21P,557,3731,3/5/2022,0,1.0,21,"West view
 Quartz countertops
 Gray wood plank flooring",10,0,Hanover Square,UDR
-12,02-06-22,Apartment 05C,589,3841,3/11/2022,0,1,5,"East River view
+12,02-06-22,Apartment 05C,589,3841,3/11/2022,0,1.0,5,"East River view
 Quartz countertops
 Gray wood plank flooring",17,0,Hanover Square,UDR
-13,02-06-22,Apartment 21J,600,3976,3/11/2022,0,1,21,"Stackable washer and dryer
+13,02-06-22,Apartment 21J,600,3976,3/11/2022,0,1.0,21,"Stackable washer and dryer
 Quartz countertops
 Gray wood plank flooring",20,0,Hanover Square,UDR
-14,02-06-22,Apartment 04S,556,3931,3/19/2022,0,1,4,"West view
+14,02-06-22,Apartment 04S,556,3931,3/19/2022,0,1.0,4,"West view
 Quartz countertops
 Modern cabinetry",10,0,Hanover Square,UDR
-15,02-06-22,Apartment 15K,924,4266,3/25/2022,0,1,15,"Stackable washer and dryer
+15,02-06-22,Apartment 15K,924,4266,3/25/2022,0,1.0,15,"Stackable washer and dryer
 Stainless steel appliances
 Gas stove",11,0,Hanover Square,UDR
-16,02-06-22,Apartment 15J,600,4231,3/26/2022,0,1,15,"Stackable washer and dryer
+16,02-06-22,Apartment 15J,600,4231,3/26/2022,0,1.0,15,"Stackable washer and dryer
 Quartz countertops
 Gray wood plank flooring",7,0,Hanover Square,UDR
-17,02-06-22,Apartment 04R,560,4031,4/2/2022,0,1,4,"West view
+17,02-06-22,Apartment 04R,560,4031,4/2/2022,0,1.0,4,"West view
 Quartz countertops
 Gray wood plank flooring",7,0,Hanover Square,UDR
-18,02-06-22,Apartment 12P,557,3411,4/2/2022,0,1,12,"West view
+18,02-06-22,Apartment 12P,557,3411,4/2/2022,0,1.0,12,"West view
 Stainless steel appliances
 Gas stove",8,0,Hanover Square,UDR
-19,02-06-22,Apartment 18Q,564,4031,4/2/2022,0,1,18,"West view
+19,02-06-22,Apartment 18Q,564,4031,4/2/2022,0,1.0,18,"West view
 Quartz countertops
 Gray wood plank flooring",7,0,Hanover Square,UDR
-20,02-06-22,Apartment 20R,560,4051,4/2/2022,0,1,20,"West view
+20,02-06-22,Apartment 20R,560,4051,4/2/2022,0,1.0,20,"West view
 Quartz countertops
 Gray wood plank flooring",9,0,Hanover Square,UDR
-21,02-06-22,Apartment 06K,677,4406,4/8/2022,0,1,6,"Quartz countertops
+21,02-06-22,Apartment 06K,677,4406,4/8/2022,0,1.0,6,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",5,0,Hanover Square,UDR
-22,02-06-22,Apartment 08D,679,3686,4/8/2022,0,1,8,"Gas stove
+22,02-06-22,Apartment 08D,679,3686,4/8/2022,0,1.0,8,"Gas stove
 Breakfast bar
 Soaking tub",12,0,Hanover Square,UDR
-23,02-06-22,Apartment 09R,560,4056,4/8/2022,0,1,9,"West view
+23,02-06-22,Apartment 09R,560,4056,4/8/2022,0,1.0,9,"West view
 Quartz countertops
 Gray wood plank flooring",9,0,Hanover Square,UDR
-24,02-06-22,Apartment 23Q,564,4156,4/8/2022,0,1,23 - Top Floor,"West view
+24,02-06-22,Apartment 23Q,564,4156,4/8/2022,0,1.0,23 - Top Floor,"West view
 Quartz countertops
 Gray wood plank flooring",10,0,Hanover Square,UDR
-25,02-06-22,Apartment 04U,545,3561,4/9/2022,0,1,4,"West view
+25,02-06-22,Apartment 04U,545,3561,4/9/2022,0,1.0,4,"West view
 Gas stove
 Breakfast bar",7,0,Hanover Square,UDR
-26,02-06-22,Apartment 20P,557,3586,4/22/2022,0,1,20,"West view
+26,02-06-22,Apartment 20P,557,3586,4/22/2022,0,1.0,20,"West view
 Stainless steel appliances
 Gas stove",12,0,Hanover Square,UDR
-27,02-06-22,Apartment 04F,781,5157,Now,1,1,4,"Stackable washer and dryer
+27,02-06-22,Apartment 04F,781,5157,Now,1,1.0,4,"Stackable washer and dryer
 Quartz countertops
 Gray wood plank flooring",48,0,Hanover Square,UDR
-28,02-06-22,Apartment 22L,667,4188,Now,1,1,22,"Quartz countertops
+28,02-06-22,Apartment 22L,667,4188,Now,1,1.0,22,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",58,0,Hanover Square,UDR
-29,02-06-22,Apartment 07F,781,4862,2/19/2022,1,1,7,"Stackable washer and dryer
+29,02-06-22,Apartment 07F,781,4862,2/19/2022,1,1.0,7,"Stackable washer and dryer
 Stainless steel appliances
 Gas stove",27,0,Hanover Square,UDR
-30,02-06-22,Apartment 03L,667,4188,3/11/2022,1,1,3,"Quartz countertops
+30,02-06-22,Apartment 03L,667,4188,3/11/2022,1,1.0,3,"Quartz countertops
 Gray wood plank flooring
 Modern cabinetry",38,0,Hanover Square,UDR
-31,02-06-22,Apartment 20H,665,4388,3/25/2022,1,1,20,"Stackable washer and dryer
+31,02-06-22,Apartment 20H,665,4388,3/25/2022,1,1.0,20,"Stackable washer and dryer
 Quartz countertops
 Gray wood plank flooring",26,0,Hanover Square,UDR
-32,02-06-22,Apartment 17H,665,4243,4/15/2022,1,1,17,"Stackable washer and dryer
+32,02-06-22,Apartment 17H,665,4243,4/15/2022,1,1.0,17,"Stackable washer and dryer
 Stainless steel appliances
 Gas stove",23,0,Hanover Square,UDR
-33,02-06-22,Apartment 09F,781,5062,4/23/2022,1,1,9,"Stackable washer and dryer
+33,02-06-22,Apartment 09F,781,5062,4/23/2022,1,1.0,9,"Stackable washer and dryer
 Stainless steel appliances
 Gas stove",18,0,Hanover Square,UDR
-34,02-06-22,Apartment 16W,851,4788,4/23/2022,1,1,16,"West view
+34,02-06-22,Apartment 16W,851,4788,4/23/2022,1,1.0,16,"West view
 Stackable washer and dryer
 Stainless steel appliances",33,0,Hanover Square,UDR
-35,02-06-22,Apartment #775 - 04D,414,3962,Now,0,1,4,"Caesarstone countertops
+35,02-06-22,Apartment #775 - 04D,414,3962,Now,0,1.0,4,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",31,1,Columbus Square,UDR
-36,02-06-22,Apartment #801 - 15H,532,4254,4/1/2022,0,1,15,"Caesarstone countertops
+36,02-06-22,Apartment #801 - 15H,532,4254,4/1/2022,0,1.0,15,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",21,1,Columbus Square,UDR
-37,02-06-22,Apartment #808 - 07P,424,3740,5/17/2022,0,1,7,"Caesarstone countertops
+37,02-06-22,Apartment #808 - 07P,424,3740,5/17/2022,0,1.0,7,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",27,1,Columbus Square,UDR
-38,02-06-22,Apartment #801 - 16H,532,4191,6/7/2022,0,1,16 - Top Floor,"Caesarstone countertops
+38,02-06-22,Apartment #801 - 16H,532,4191,6/7/2022,0,1.0,16 - Top Floor,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",6,1,Columbus Square,UDR
-39,02-06-22,Apartment #805 - 04D,818,6475,Now,2,2,4,"Washer and dryer
+39,02-06-22,Apartment #805 - 04D,818,6475,Now,2,2.0,4,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",25,1,Columbus Square,UDR
-40,02-06-22,Apartment #808 - 03F,1076,8185,Now,2,2,3,"Washer and dryer
+40,02-06-22,Apartment #808 - 03F,1076,8185,Now,2,2.0,3,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",51,1,Columbus Square,UDR
-41,02-06-22,Apartment #808 - 23M,810,6848,Now,2,2,23,"Hudson River view
+41,02-06-22,Apartment #808 - 23M,810,6848,Now,2,2.0,23,"Hudson River view
 Washer and dryer
 Caesarstone countertops",27,1,Columbus Square,UDR
-42,02-06-22,Apartment #808 - 24M,810,6858,Now,2,2,24,"Hudson River view
+42,02-06-22,Apartment #808 - 24M,810,6858,Now,2,2.0,24,"Hudson River view
 Washer and dryer
 Caesarstone countertops",17,1,Columbus Square,UDR
-43,02-06-22,Apartment #808 - PH1-H,782,6475,Now,2,1,27,"Hudson River view
+43,02-06-22,Apartment #808 - PH1-H,782,6475,Now,2,1.0,27,"Hudson River view
 Penthouse
 Caesarstone countertops",32,1,Columbus Square,UDR
-44,02-06-22,Apartment #808 - 15L,782,6348,2/19/2022,2,1,15,"Caesarstone countertops
+44,02-06-22,Apartment #808 - 15L,782,6348,2/19/2022,2,1.0,15,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",19,1,Columbus Square,UDR
-45,02-06-22,Apartment #808 - 19L,782,6463,3/8/2022,2,1,19,"Caesarstone countertops
+45,02-06-22,Apartment #808 - 19L,782,6463,3/8/2022,2,1.0,19,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",14,1,Columbus Square,UDR
-46,02-06-22,Apartment #808 - 10M,810,6723,3/9/2022,2,2,10,"Washer and dryer
+46,02-06-22,Apartment #808 - 10M,810,6723,3/9/2022,2,2.0,10,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",14,1,Columbus Square,UDR
-47,02-06-22,Apartment #805 - 15D,1032,7798,3/25/2022,2,2,15,"Washer and dryer
+47,02-06-22,Apartment #805 - 15D,1032,7798,3/25/2022,2,2.0,15,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",21,1,Columbus Square,UDR
 48,02-06-22,Apartment #795 - 15B,1110,8003,5/6/2022,2,2.5,15,"Central Park view
 Washer and dryer
 Caesarstone countertops",23,1,Columbus Square,UDR
-49,02-06-22,Apartment #805 - 09F,979,7292,5/6/2022,2,2,9,"Washer and dryer
+49,02-06-22,Apartment #805 - 09F,979,7292,5/6/2022,2,2.0,9,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",12,1,Columbus Square,UDR
-50,02-06-22,Apartment #808 - 20H,1013,8077,5/6/2022,2,2,20,"Washer and dryer
+50,02-06-22,Apartment #808 - 20H,1013,8077,5/6/2022,2,2.0,20,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",24,1,Columbus Square,UDR
-51,02-06-22,Apartment #795 - 04B,648,5525,Now,1,1,4,"Washer and dryer
+51,02-06-22,Apartment #795 - 04B,648,5525,Now,1,1.0,4,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",24,1,Columbus Square,UDR
-52,02-06-22,Apartment #801 - 09G,671,4752,Now,1,1,9,"Washer and dryer
+52,02-06-22,Apartment #801 - 09G,671,4752,Now,1,1.0,9,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",66,1,Columbus Square,UDR
-53,02-06-22,Apartment #801 - 10A,669,5153,Now,1,1,10,"Washer and dryer
+53,02-06-22,Apartment #801 - 10A,669,5153,Now,1,1.0,10,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",21,1,Columbus Square,UDR
-54,02-06-22,Apartment #801 - 10E,674,5176,Now,1,1,10,"Washer and dryer
+54,02-06-22,Apartment #801 - 10E,674,5176,Now,1,1.0,10,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",16,1,Columbus Square,UDR
-55,02-06-22,Apartment #808 - 07C,652,5355,Now,1,1,7,"Washer and dryer
+55,02-06-22,Apartment #808 - 07C,652,5355,Now,1,1.0,7,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",14,1,Columbus Square,UDR
-56,02-06-22,Apartment #808 - 16D,652,5491,Now,1,1,16,"Washer and dryer
+56,02-06-22,Apartment #808 - 16D,652,5491,Now,1,1.0,16,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",10,1,Columbus Square,UDR
-57,02-06-22,Apartment #808 - 20B,652,5582,Now,1,1,20,"Washer and dryer
+57,02-06-22,Apartment #808 - 20B,652,5582,Now,1,1.0,20,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",7,1,Columbus Square,UDR
-58,02-06-22,Apartment #808 - 21F,652,5600,Now,1,1,21,"Washer and dryer
+58,02-06-22,Apartment #808 - 21F,652,5600,Now,1,1.0,21,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",9,1,Columbus Square,UDR
-59,02-06-22,Apartment #808 - 24C,652,5388,Now,1,1,24,"Central Park view
+59,02-06-22,Apartment #808 - 24C,652,5388,Now,1,1.0,24,"Central Park view
 Washer and dryer
 Caesarstone countertops",16,1,Columbus Square,UDR
-60,02-06-22,Apartment #808 - 24D,652,5799,Now,1,1,24,"Central Park view
+60,02-06-22,Apartment #808 - 24D,652,5799,Now,1,1.0,24,"Central Park view
 Washer and dryer
 Caesarstone countertops",18,1,Columbus Square,UDR
-61,02-06-22,Apartment #795 - 08E,649,5138,3/5/2022,1,1,8,"Washer and dryer
+61,02-06-22,Apartment #795 - 08E,649,5138,3/5/2022,1,1.0,8,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",9,1,Columbus Square,UDR
-62,02-06-22,Apartment #808 - 11C,652,5411,3/5/2022,1,1,11,"Washer and dryer
+62,02-06-22,Apartment #808 - 11C,652,5411,3/5/2022,1,1.0,11,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",10,1,Columbus Square,UDR
-63,02-06-22,Apartment #805 - 10E,593,5226,3/8/2022,1,1,10,"Washer and dryer
+63,02-06-22,Apartment #805 - 10E,593,5226,3/8/2022,1,1.0,10,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",9,1,Columbus Square,UDR
-64,02-06-22,Apartment #775 - 11A,636,5389,3/16/2022,1,1,11,"Washer and dryer
+64,02-06-22,Apartment #775 - 11A,636,5389,3/16/2022,1,1.0,11,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",19,1,Columbus Square,UDR
-65,02-06-22,Apartment #808 - 07K,594,5046,3/18/2022,1,1,7,"Caesarstone countertops
+65,02-06-22,Apartment #808 - 07K,594,5046,3/18/2022,1,1.0,7,"Caesarstone countertops
 Stainless steel appliances
 Piece-laid white oak strip flooring",16,1,Columbus Square,UDR
-66,02-06-22,Apartment #795 - 09C,638,5187,3/19/2022,1,1,9,"Washer and dryer
+66,02-06-22,Apartment #795 - 09C,638,5187,3/19/2022,1,1.0,9,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",9,1,Columbus Square,UDR
-67,02-06-22,Apartment #808 - 24F,652,5888,3/19/2022,1,1,24,"Central Park view
+67,02-06-22,Apartment #808 - 24F,652,5888,3/19/2022,1,1.0,24,"Central Park view
 Washer and dryer
 Caesarstone countertops",8,1,Columbus Square,UDR
-68,02-06-22,Apartment #805 - 14B,655,5259,3/25/2022,1,1,14,"Washer and dryer
+68,02-06-22,Apartment #805 - 14B,655,5259,3/25/2022,1,1.0,14,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",11,1,Columbus Square,UDR
-69,02-06-22,Apartment #808 - 11F,652,5436,4/6/2022,1,1,11,"Washer and dryer
+69,02-06-22,Apartment #808 - 11F,652,5436,4/6/2022,1,1.0,11,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",9,1,Columbus Square,UDR
-70,02-06-22,Apartment #808 - 23C,652,5878,4/7/2022,1,1,23,"Central Park view
+70,02-06-22,Apartment #808 - 23C,652,5878,4/7/2022,1,1.0,23,"Central Park view
 Washer and dryer
 Caesarstone countertops",7,1,Columbus Square,UDR
-71,02-06-22,Apartment #808 - PH3-D,652,6046,4/7/2022,1,1,29,"Central Park view
+71,02-06-22,Apartment #808 - PH3-D,652,6046,4/7/2022,1,1.0,29,"Central Park view
 Penthouse
 Washer and dryer",8,1,Columbus Square,UDR
-72,02-06-22,Apartment #808 - 10D,652,5413,4/8/2022,1,1,10,"Washer and dryer
+72,02-06-22,Apartment #808 - 10D,652,5413,4/8/2022,1,1.0,10,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",7,1,Columbus Square,UDR
-73,02-06-22,Apartment #801 - 04D,650,5040,4/12/2022,1,1,4,"Washer and dryer
+73,02-06-22,Apartment #801 - 04D,650,5040,4/12/2022,1,1.0,4,"Washer and dryer
 Caesarstone countertops
 Stainless steel appliances",12,1,Columbus Square,UDR
-74,02-06-22,Apartment #795 - 11D,649,5496,5/13/2022,1,1,11,"Central Park view
+74,02-06-22,Apartment #795 - 11D,649,5496,5/13/2022,1,1.0,11,"Central Park view
 Washer and dryer
 Caesarstone countertops",5,1,Columbus Square,UDR
-75,02-06-22,Apartment #808 - 25C,652,5896,5/27/2022,1,1,25,"Central Park view
+75,02-06-22,Apartment #808 - 25C,652,5896,5/27/2022,1,1.0,25,"Central Park view
 Washer and dryer
 Caesarstone countertops",0,1,Columbus Square,UDR
-76,02-06-22,Apartment #808 - 25B,652,5690,6/2/2022,1,1,25,"Central Park view
+76,02-06-22,Apartment #808 - 25B,652,5690,6/2/2022,1,1.0,25,"Central Park view
 Washer and dryer
 Caesarstone countertops",0,1,Columbus Square,UDR
-77,02-06-22,Apartment S12X,432,3274,Now,0,1,12,Smart home package,112,0,View 34,UDR
-78,02-06-22,Apartment N16P,678,4006,Now,1,1,16,"Smart home package
+77,02-06-22,Apartment S12X,432,3274,Now,0,1.0,12,Smart home package,112,0,View 34,UDR
+78,02-06-22,Apartment N16P,678,4006,Now,1,1.0,16,"Smart home package
 Hardwood floors",126,1,View 34,UDR
-79,02-06-22,Apartment N22F,675,4215,Now,1,1,22,"Smart home package
+79,02-06-22,Apartment N22F,675,4215,Now,1,1.0,22,"Smart home package
 Hardwood floors",49,1,View 34,UDR
-80,02-06-22,Apartment S16F,675,4381,Now,1,1,16,"River view
+80,02-06-22,Apartment S16F,675,4381,Now,1,1.0,16,"River view
 Smart home package
 Hardwood floors",29,1,View 34,UDR
-81,02-06-22,Apartment S17P,678,3855,Now,1,1,17,"Smart home package
+81,02-06-22,Apartment S17P,678,3855,Now,1,1.0,17,"Smart home package
 Hardwood floors",91,1,View 34,UDR
 82,02-06-22,Apartment N24D,965,4906,2/10/2022,1,1.5,24,"River view
 Smart home package
 Hardwood floors",53,0,View 34,UDR
-83,02-06-22,Apartment S07M,567,4159,2/10/2022,1,1,7,"Smart home package
+83,02-06-22,Apartment S07M,567,4159,2/10/2022,1,1.0,7,"Smart home package
 Bookcase divider",32,0,View 34,UDR
-84,02-06-22,Apartment S20K,567,4236,2/10/2022,1,1,20,"Smart home package
+84,02-06-22,Apartment S20K,567,4236,2/10/2022,1,1.0,20,"Smart home package
 Hardwood floors",19,0,View 34,UDR
-85,02-06-22,Apartment S21K,567,4221,3/3/2022,1,1,21,Smart home package,17,0,View 34,UDR
-86,02-06-22,Apartment N27K,678,3990,3/5/2022,1,1,27,Smart home package,37,0,View 34,UDR
+85,02-06-22,Apartment S21K,567,4221,3/3/2022,1,1.0,21,Smart home package,17,0,View 34,UDR
+86,02-06-22,Apartment N27K,678,3990,3/5/2022,1,1.0,27,Smart home package,37,0,View 34,UDR
 87,02-06-22,Apartment N34D,965,5245,3/9/2022,1,1.5,34,"River view
 Smart home package
 Bookcase divider",26,0,View 34,UDR
-88,02-06-22,Apartment N25J,587,4167,3/10/2022,1,1,25,"Smart home package
+88,02-06-22,Apartment N25J,587,4167,3/10/2022,1,1.0,25,"Smart home package
 Hardwood floors
 Closet built-ins",25,0,View 34,UDR
-89,02-06-22,Apartment N03B,1018,5428,3/16/2022,1,2,3,"Smart home package
+89,02-06-22,Apartment N03B,1018,5428,3/16/2022,1,2.0,3,"Smart home package
 Oversized kitchen
 Hardwood floors",25,0,View 34,UDR
-90,02-06-22,Apartment S23G,740,6323,3/16/2022,1,1,23,"Corner location
+90,02-06-22,Apartment S23G,740,6323,3/16/2022,1,1.0,23,"Corner location
 Smart home package
 Hardwood floors",29,0,View 34,UDR
-91,02-06-22,Apartment S15M,567,4264,3/17/2022,1,1,15,"Smart home package
+91,02-06-22,Apartment S15M,567,4264,3/17/2022,1,1.0,15,"Smart home package
 Hardwood floors",16,0,View 34,UDR
-92,02-06-22,Apartment N09P,678,4122,3/24/2022,1,1,9,Smart home package,16,0,View 34,UDR
-93,02-06-22,Apartment N19M,678,4314,3/24/2022,1,1,19,"Smart home package
+92,02-06-22,Apartment N09P,678,4122,3/24/2022,1,1.0,9,Smart home package,16,0,View 34,UDR
+93,02-06-22,Apartment N19M,678,4314,3/24/2022,1,1.0,19,"Smart home package
 Hardwood floors
 Closet built-ins",11,0,View 34,UDR
-94,02-06-22,Apartment S27B,1018,5641,3/24/2022,1,2,27,"Smart home package
+94,02-06-22,Apartment S27B,1018,5641,3/24/2022,1,2.0,27,"Smart home package
 Oversized kitchen
 Hardwood floors",18,0,View 34,UDR
-95,02-06-22,Apartment S09L,683,4212,3/30/2022,1,1,9,"Smart home package
+95,02-06-22,Apartment S09L,683,4212,3/30/2022,1,1.0,9,"Smart home package
 Hardwood floors",15,0,View 34,UDR
 96,02-06-22,Apartment N20D,965,5562,3/31/2022,1,1.5,20,"Smart home package
 Hardwood floors
 Closet built-ins",11,0,View 34,UDR
-97,02-06-22,Apartment N20K,567,4523,4/6/2022,1,1,20,"Smart home package
+97,02-06-22,Apartment N20K,567,4523,4/6/2022,1,1.0,20,"Smart home package
 Hardwood floors",8,0,View 34,UDR
-98,02-06-22,Apartment S23F,675,4444,4/6/2022,1,1,23,"Smart home package
+98,02-06-22,Apartment S23F,675,4444,4/6/2022,1,1.0,23,"Smart home package
 Hardwood floors",6,0,View 34,UDR
-99,02-06-22,Apartment N04B,1018,5505,4/7/2022,1,2,4,"Smart home package
+99,02-06-22,Apartment N04B,1018,5505,4/7/2022,1,2.0,4,"Smart home package
 Oversized kitchen
 Hardwood floors",15,0,View 34,UDR
-100,02-06-22,Apartment N05F,675,4542,4/7/2022,1,1,5,"River view
+100,02-06-22,Apartment N05F,675,4542,4/7/2022,1,1.0,5,"River view
 Smart home package
 Hardwood floors",10,0,View 34,UDR
-101,02-06-22,Apartment N16L,683,4217,4/7/2022,1,1,16,"Smart home package
+101,02-06-22,Apartment N16L,683,4217,4/7/2022,1,1.0,16,"Smart home package
 Bookcase divider",14,0,View 34,UDR
-102,02-06-22,Apartment S23H,587,6008,4/9/2022,1,1,23,"Corner location
+102,02-06-22,Apartment S23H,587,6008,4/9/2022,1,1.0,23,"Corner location
 Smart home package
 Terrace",13,0,View 34,UDR
-103,02-06-22,Apartment N08B,1018,5442,4/13/2022,1,2,8,"Smart home package
+103,02-06-22,Apartment N08B,1018,5442,4/13/2022,1,2.0,8,"Smart home package
 Oversized kitchen
 Hardwood floors",5,0,View 34,UDR
-104,02-06-22,Apartment S22K,567,4694,4/13/2022,1,1,22,"Smart home package
+104,02-06-22,Apartment S22K,567,4694,4/13/2022,1,1.0,22,"Smart home package
 Hardwood floors
 Sliding glass wall divider",11,0,View 34,UDR
-105,02-06-22,Apartment S24D,521,3904,4/13/2022,1,1,24,"Smart home package
+105,02-06-22,Apartment S24D,521,3904,4/13/2022,1,1.0,24,"Smart home package
 Balcony",35,0,View 34,UDR
 106,02-06-22,Apartment N25D,965,5169,4/14/2022,1,1.5,25,"River view
 Smart home package
@@ -304,154 +304,610 @@ Hardwood floors",8,0,View 34,UDR
 107,02-06-22,Apartment N35D,965,5364,4/20/2022,1,1.5,35 - Top Floor,"River view
 Smart home package
 Hardwood floors",5,0,View 34,UDR
-108,02-06-22,Apartment S18L,587,4248,4/20/2022,1,1,18,"Smart home package
+108,02-06-22,Apartment S18L,587,4248,4/20/2022,1,1.0,18,"Smart home package
 Hardwood floors",14,0,View 34,UDR
 109,02-06-22,Apartment N29D,965,5453,4/28/2022,1,1.5,29,"River view
 Smart home package
 Hardwood floors",13,0,View 34,UDR
-110,02-06-22,Apartment N15G,636,4302,5/5/2022,1,1,15,"River view
+110,02-06-22,Apartment N15G,636,4302,5/5/2022,1,1.0,15,"River view
 Smart home package",13,0,View 34,UDR
-111,02-06-22,Apartment N04C,1290,7290,Now,3,2,4,"River view
+111,02-06-22,Apartment N04C,1290,7290,Now,3,2.0,4,"River view
 Corner location
 Smart home package",43,1,View 34,UDR
-112,02-06-22,Apartment N20C,1290,7919,Now,3,2,20,"Corner location
+112,02-06-22,Apartment N20C,1290,7919,Now,3,2.0,20,"Corner location
 Smart home package
 Stackable washer and dryer",36,1,View 34,UDR
-113,02-06-22,Apartment S03C,1290,6995,Now,3,2,3,"Corner location
+113,02-06-22,Apartment S03C,1290,6995,Now,3,2.0,3,"Corner location
 Smart home package
 Oversized kitchen",40,1,View 34,UDR
-114,02-06-22,Apartment N09J,1275,7084,4/6/2022,3,2,9,"River view
+114,02-06-22,Apartment N09J,1275,7084,4/6/2022,3,2.0,9,"River view
 Corner location
 Smart home package",35,0,View 34,UDR
-115,02-06-22,Apartment S05K,1085,5924,2/17/2022,2,2,5,"Corner location
+115,02-06-22,Apartment S05K,1085,5924,2/17/2022,2,2.0,5,"Corner location
 Smart home package
 Hardwood floors",54,0,View 34,UDR
-116,02-06-22,Apartment S04B,1018,5634,3/10/2022,2,2,4,"Smart home package
+116,02-06-22,Apartment S04B,1018,5634,3/10/2022,2,2.0,4,"Smart home package
 Oversized kitchen
 Hardwood floors",50,0,View 34,UDR
-117,02-06-22,Apartment N09K,1085,6113,3/16/2022,2,2,9,"River view
+117,02-06-22,Apartment N09K,1085,6113,3/16/2022,2,2.0,9,"River view
 Corner location
 Smart home package",22,0,View 34,UDR
-118,02-06-22,Apartment N29B,1018,6017,3/17/2022,2,2,29,"Smart home package
+118,02-06-22,Apartment N29B,1018,6017,3/17/2022,2,2.0,29,"Smart home package
 Oversized kitchen
 Hardwood floors",30,0,View 34,UDR
-119,02-06-22,Apartment S05A,1343,7357,3/24/2022,2,2,5,"Smart home package
+119,02-06-22,Apartment S05A,1343,7357,3/24/2022,2,2.0,5,"Smart home package
 Hardwood floors
 Balcony",19,0,View 34,UDR
-120,02-06-22,Apartment S28B,1018,6394,4/14/2022,2,2,28,"Smart home package
+120,02-06-22,Apartment S28B,1018,6394,4/14/2022,2,2.0,28,"Smart home package
 Oversized kitchen
 Balcony",9,0,View 34,UDR
-121,02-06-22,Apartment S09A,1343,7795,5/5/2022,2,2,9,"Smart home package
+121,02-06-22,Apartment S09A,1343,7795,5/5/2022,2,2.0,9,"Smart home package
 Hardwood floors
 Balcony",20,0,View 34,UDR
-122,02-06-22,Apartment 1404,818,4053,Now,0,1,14,"Stackable washer and dryer
+122,02-06-22,Apartment 1404,818,4053,Now,0,1.0,14,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",36,0,95 Wall,UDR
-123,02-06-22,Apartment 1417,475,3249,Now,0,1,14,"Stackable washer and dryer
+123,02-06-22,Apartment 1417,475,3249,Now,0,1.0,14,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",75,0,95 Wall,UDR
-124,02-06-22,Apartment 1910,583,3912,Now,0,1,19,"Stackable washer and dryer
+124,02-06-22,Apartment 1910,583,3912,Now,0,1.0,19,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",22,0,95 Wall,UDR
-125,02-06-22,Apartment 217,475,3449,Now,0,1,2,"Stackable washer and dryer
+125,02-06-22,Apartment 217,475,3449,Now,0,1.0,2,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",18,0,95 Wall,UDR
-126,02-06-22,Apartment 301,551,3870,Now,0,1,3,"Stackable washer and dryer
+126,02-06-22,Apartment 301,551,3870,Now,0,1.0,3,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-127,02-06-22,Apartment 410,576,3781,Now,0,1,4,"Stackable washer and dryer
+127,02-06-22,Apartment 410,576,3781,Now,0,1.0,4,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",13,0,95 Wall,UDR
-128,02-06-22,Apartment 425,623,3741,Now,0,1,4,"Stackable washer and dryer
+128,02-06-22,Apartment 425,623,3741,Now,0,1.0,4,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-129,02-06-22,Apartment 909,618,3896,Now,0,1,9,"Stackable washer and dryer
+129,02-06-22,Apartment 909,618,3896,Now,0,1.0,9,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",15,0,95 Wall,UDR
-130,02-06-22,Apartment 703,495,3644,2/10/2022,0,1,7,"Stackable washer and dryer
+130,02-06-22,Apartment 703,495,3644,2/10/2022,0,1.0,7,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-131,02-06-22,Apartment 817,475,3559,2/17/2022,0,1,8,"Stackable washer and dryer
+131,02-06-22,Apartment 817,475,3559,2/17/2022,0,1.0,8,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",17,0,95 Wall,UDR
-132,02-06-22,Apartment 1115,487,3579,3/4/2022,0,1,11,"Stackable washer and dryer
+132,02-06-22,Apartment 1115,487,3579,3/4/2022,0,1.0,11,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",13,0,95 Wall,UDR
-133,02-06-22,Apartment 1717,480,3579,3/4/2022,0,1,17,"Stackable washer and dryer
+133,02-06-22,Apartment 1717,480,3579,3/4/2022,0,1.0,17,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-134,02-06-22,Apartment 2019,616,3807,3/4/2022,0,1,20,"Stackable washer and dryer
+134,02-06-22,Apartment 2019,616,3807,3/4/2022,0,1.0,20,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",16,0,95 Wall,UDR
-135,02-06-22,Apartment 721,557,3742,3/4/2022,0,1,7,"Stackable washer and dryer
+135,02-06-22,Apartment 721,557,3742,3/4/2022,0,1.0,7,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",17,0,95 Wall,UDR
-136,02-06-22,Apartment 1708,575,3911,3/9/2022,0,1,17,"Stackable washer and dryer
+136,02-06-22,Apartment 1708,575,3911,3/9/2022,0,1.0,17,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",0,0,95 Wall,UDR
-137,02-06-22,Apartment 1501,551,3856,3/10/2022,0,1,15,"Stackable washer and dryer
+137,02-06-22,Apartment 1501,551,3856,3/10/2022,0,1.0,15,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-138,02-06-22,Apartment 725,623,3831,3/18/2022,0,1,7,"Stackable washer and dryer
+138,02-06-22,Apartment 725,623,3831,3/18/2022,0,1.0,7,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",11,0,95 Wall,UDR
-139,02-06-22,Apartment 2320,470,3819,3/31/2022,0,1,23 - Top Floor,"Stackable washer and dryer
+139,02-06-22,Apartment 2320,470,3819,3/31/2022,0,1.0,23 - Top Floor,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",11,0,95 Wall,UDR
-140,02-06-22,Apartment 2325,425,3779,4/1/2022,0,1,23 - Top Floor,"Stackable washer and dryer
+140,02-06-22,Apartment 2325,425,3779,4/1/2022,0,1.0,23 - Top Floor,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",11,0,95 Wall,UDR
-141,02-06-22,Apartment 2120,470,3804,4/21/2022,0,1,21,"Stackable washer and dryer
+141,02-06-22,Apartment 2120,470,3804,4/21/2022,0,1.0,21,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",12,0,95 Wall,UDR
-142,02-06-22,Apartment 1216,487,3824,4/28/2022,0,1,12,"Stackable washer and dryer
+142,02-06-22,Apartment 1216,487,3824,4/28/2022,0,1.0,12,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",8,0,95 Wall,UDR
-143,02-06-22,Apartment 1522,947,5906,Now,1,1,15,"East River view
+143,02-06-22,Apartment 1522,947,5906,Now,1,1.0,15,"East River view
 Corner location
 Stackable washer and dryer",54,0,95 Wall,UDR
-144,02-06-22,Apartment 224,886,4598,Now,1,1,2,"Stackable washer and dryer
+144,02-06-22,Apartment 224,886,4598,Now,1,1.0,2,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",40,0,95 Wall,UDR
-145,02-06-22,Apartment 406,674,4591,Now,1,1,4,"Stackable washer and dryer
+145,02-06-22,Apartment 406,674,4591,Now,1,1.0,4,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",26,0,95 Wall,UDR
-146,02-06-22,Apartment 923,818,4681,Now,1,1,9,"Stackable washer and dryer
+146,02-06-22,Apartment 923,818,4681,Now,1,1.0,9,"Stackable washer and dryer
 Marble countertops & backsplash
 Hardwood floors",26,0,95 Wall,UDR
-147,02-06-22,Apartment 1001,808,7298,3/18/2022,2,2,10,"Granite countertops
+147,02-06-22,Apartment 1001,808,7298,3/18/2022,2,2.0,10,"Granite countertops
 Stainless steel appliances
 Hardwood floors",29,0,21 chelsea,UDR
-148,02-06-22,Apartment 313,670,5210,Now,1,1,3,"Granite countertops
+148,02-06-22,Apartment 313,670,5210,Now,1,1.0,3,"Granite countertops
 Stainless steel appliances
 Hardwood floors",26,0,21 chelsea,UDR
-149,02-06-22,Apartment 514,615,4925,Now,1,1,5,"Granite countertops
+149,02-06-22,Apartment 514,615,4925,Now,1,1.0,5,"Granite countertops
 Stainless steel appliances
 Hardwood floors",31,0,21 chelsea,UDR
-150,02-06-22,Apartment 306,633,5130,2/19/2022,1,1,3,"Granite countertops
+150,02-06-22,Apartment 306,633,5130,2/19/2022,1,1.0,3,"Granite countertops
 Stainless steel appliances
 Hardwood floors",14,0,21 chelsea,UDR
-151,02-06-22,Apartment 607,602,5029,2/19/2022,1,1,6,"Granite countertops
+151,02-06-22,Apartment 607,602,5029,2/19/2022,1,1.0,6,"Granite countertops
 Stainless steel appliances
 Hardwood floors",14,0,21 chelsea,UDR
-152,02-06-22,Apartment 612,607,5029,2/19/2022,1,1,6,"Granite countertops
+152,02-06-22,Apartment 612,607,5029,2/19/2022,1,1.0,6,"Granite countertops
 Stainless steel appliances
 Hardwood floors",9,0,21 chelsea,UDR
-153,02-06-22,Apartment 917,532,5016,2/26/2022,1,1,9,"Granite countertops
+153,02-06-22,Apartment 917,532,5016,2/26/2022,1,1.0,9,"Granite countertops
 Stainless steel appliances
 Hardwood floors",15,0,21 chelsea,UDR
-154,02-06-22,Apartment 410,586,5019,3/11/2022,1,1,4,"Granite countertops
+154,02-06-22,Apartment 410,586,5019,3/11/2022,1,1.0,4,"Granite countertops
 Stainless steel appliances
 Hardwood floors",9,0,21 chelsea,UDR
-155,02-06-22,Apartment 1008,605,5112,3/19/2022,1,1,10,"Granite countertops
+155,02-06-22,Apartment 1008,605,5112,3/19/2022,1,1.0,10,"Granite countertops
 Stainless steel appliances
 Hardwood floors",18,0,21 chelsea,UDR
-156,02-06-22,Apartment 718,449,4590,4/2/2022,0,1,7,"Granite countertops
+156,02-06-22,Apartment 718,449,4590,4/2/2022,0,1.0,7,"Granite countertops
 Stainless steel appliances
 Hardwood floors",18,0,21 chelsea,UDR
-157,02-06-22,Apartment #01 - 632,437,3219,4/15/2022,0,1,6,"Smart home package
+157,02-06-22,Apartment #01 - 632,437,3219,4/15/2022,0,1.0,6,"Smart home package
 Balcony
 Hardwood flooring",39,0,Leonard Pointe,UDR
-158,02-06-22,Apartment #01 - 507,604,4343,4/2/2022,1,1,5,"Smart home package
+158,02-06-22,Apartment #01 - 507,604,4343,4/2/2022,1,1.0,5,"Smart home package
 Balcony
 Washer and dryer",61,0,Leonard Pointe,UDR
+0,02-07-22,Apartment #01 - 507,604,4343,4/2/2022,1,1,5,"Smart home package
+Balcony
+Washer and dryer",69,0,Leonard Pointe,UDR
+1,02-07-22,Apartment #01 - 632,437,3219,4/15/2022,0,1,6,"Smart home package
+Balcony
+Hardwood flooring",42,0,Leonard Pointe,UDR
+2,02-07-22,Apartment #775 - 04D,414,3962,Now,0,1,4,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",34,1,Columbus Square,UDR
+3,02-07-22,Apartment #801 - 15H,532,4274,4/1/2022,0,1,15,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",23,1,Columbus Square,UDR
+4,02-07-22,Apartment #808 - 07P,424,3880,5/17/2022,0,1,7,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",30,1,Columbus Square,UDR
+5,02-07-22,Apartment #801 - 16H,532,4206,6/7/2022,0,1,16 - Top Floor,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",8,1,Columbus Square,UDR
+6,02-07-22,Apartment #795 - 04B,648,5525,Now,1,1,4,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",29,1,Columbus Square,UDR
+7,02-07-22,Apartment #801 - 09G,671,4752,Now,1,1,9,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",71,1,Columbus Square,UDR
+8,02-07-22,Apartment #801 - 10A,669,5153,Now,1,1,10,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",22,1,Columbus Square,UDR
+9,02-07-22,Apartment #801 - 10E,674,5176,Now,1,1,10,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",18,1,Columbus Square,UDR
+10,02-07-22,Apartment #808 - 07C,652,5355,Now,1,1,7,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",17,1,Columbus Square,UDR
+11,02-07-22,Apartment #808 - 16D,652,5491,Now,1,1,16,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",11,1,Columbus Square,UDR
+12,02-07-22,Apartment #808 - 20B,652,5582,Now,1,1,20,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",7,1,Columbus Square,UDR
+13,02-07-22,Apartment #808 - 21F,652,5600,Now,1,1,21,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",10,1,Columbus Square,UDR
+14,02-07-22,Apartment #808 - 24C,652,5388,Now,1,1,24,"Central Park view
+Washer and dryer
+Caesarstone countertops",18,1,Columbus Square,UDR
+15,02-07-22,Apartment #808 - 24D,652,5799,Now,1,1,24,"Central Park view
+Washer and dryer
+Caesarstone countertops",19,1,Columbus Square,UDR
+16,02-07-22,Apartment #795 - 08E,649,5138,3/5/2022,1,1,8,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",9,1,Columbus Square,UDR
+17,02-07-22,Apartment #808 - 11C,652,5411,3/5/2022,1,1,11,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",10,1,Columbus Square,UDR
+18,02-07-22,Apartment #805 - 10E,593,5226,3/8/2022,1,1,10,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",9,1,Columbus Square,UDR
+19,02-07-22,Apartment #775 - 11A,636,5389,3/16/2022,1,1,11,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",20,1,Columbus Square,UDR
+20,02-07-22,Apartment #808 - 07K,594,5046,3/18/2022,1,1,7,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",17,1,Columbus Square,UDR
+21,02-07-22,Apartment #795 - 09C,638,5187,3/19/2022,1,1,9,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",9,1,Columbus Square,UDR
+22,02-07-22,Apartment #808 - 24F,652,5888,3/19/2022,1,1,24,"Central Park view
+Washer and dryer
+Caesarstone countertops",8,1,Columbus Square,UDR
+23,02-07-22,Apartment #805 - 14B,655,5259,3/25/2022,1,1,14,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",12,1,Columbus Square,UDR
+24,02-07-22,Apartment #808 - 11F,652,5436,4/6/2022,1,1,11,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",9,1,Columbus Square,UDR
+25,02-07-22,Apartment #808 - 23C,652,5878,4/7/2022,1,1,23,"Central Park view
+Washer and dryer
+Caesarstone countertops",7,1,Columbus Square,UDR
+26,02-07-22,Apartment #808 - PH3-D,652,6046,4/7/2022,1,1,29,"Central Park view
+Penthouse
+Washer and dryer",8,1,Columbus Square,UDR
+27,02-07-22,Apartment #808 - 10D,652,5413,4/8/2022,1,1,10,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",7,1,Columbus Square,UDR
+28,02-07-22,Apartment #801 - 04D,650,5040,4/12/2022,1,1,4,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",12,1,Columbus Square,UDR
+29,02-07-22,Apartment #795 - 11D,649,5496,5/13/2022,1,1,11,"Central Park view
+Washer and dryer
+Caesarstone countertops",5,1,Columbus Square,UDR
+30,02-07-22,Apartment #808 - 25C,652,5896,5/27/2022,1,1,25,"Central Park view
+Washer and dryer
+Caesarstone countertops",0,1,Columbus Square,UDR
+31,02-07-22,Apartment #808 - 25B,652,5690,6/2/2022,1,1,25,"Central Park view
+Washer and dryer
+Caesarstone countertops",5,1,Columbus Square,UDR
+32,02-07-22,Apartment #805 - 04D,818,6535,Now,2,2,4,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",27,1,Columbus Square,UDR
+33,02-07-22,Apartment #808 - 03F,1076,8245,Now,2,2,3,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",55,1,Columbus Square,UDR
+34,02-07-22,Apartment #808 - 23M,810,6908,Now,2,2,23,"Hudson River view
+Washer and dryer
+Caesarstone countertops",28,1,Columbus Square,UDR
+35,02-07-22,Apartment #808 - 24M,810,6918,Now,2,2,24,"Hudson River view
+Washer and dryer
+Caesarstone countertops",18,1,Columbus Square,UDR
+36,02-07-22,Apartment #808 - PH1-H,782,6535,Now,2,1,27,"Hudson River view
+Penthouse
+Caesarstone countertops",34,1,Columbus Square,UDR
+37,02-07-22,Apartment #808 - 15L,782,6288,2/19/2022,2,1,15,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",19,1,Columbus Square,UDR
+38,02-07-22,Apartment #808 - 19L,782,6403,3/8/2022,2,1,19,"Caesarstone countertops
+Stainless steel appliances
+Piece-laid white oak strip flooring",14,1,Columbus Square,UDR
+39,02-07-22,Apartment #808 - 10M,810,6663,3/9/2022,2,2,10,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",15,1,Columbus Square,UDR
+40,02-07-22,Apartment #805 - 15D,1032,7803,3/25/2022,2,2,15,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",25,1,Columbus Square,UDR
+41,02-07-22,Apartment #795 - 15B,1110,8008,5/6/2022,2,2.5,15,"Central Park view
+Washer and dryer
+Caesarstone countertops",26,1,Columbus Square,UDR
+42,02-07-22,Apartment #805 - 09F,979,7297,5/6/2022,2,2,9,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",13,1,Columbus Square,UDR
+43,02-07-22,Apartment #808 - 20H,1013,8082,5/6/2022,2,2,20,"Washer and dryer
+Caesarstone countertops
+Stainless steel appliances",24,1,Columbus Square,UDR
+44,02-07-22,Apartment 04F,781,5059,Now,1,1,4,"Stackable washer and dryer
+Quartz countertops
+Gray wood plank flooring",52,0,10 Hanover Square,UDR
+45,02-07-22,Apartment 22L,667,4188,Now,1,1,22,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",60,0,10 Hanover Square,UDR
+46,02-07-22,Apartment 07F,781,4864,2/19/2022,1,1,7,"Stackable washer and dryer
+Stainless steel appliances
+Gas stove",30,0,10 Hanover Square,UDR
+47,02-07-22,Apartment 03L,667,4188,3/11/2022,1,1,3,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",42,0,10 Hanover Square,UDR
+48,02-07-22,Apartment 20H,665,4388,3/25/2022,1,1,20,"Stackable washer and dryer
+Quartz countertops
+Gray wood plank flooring",26,0,10 Hanover Square,UDR
+49,02-07-22,Apartment 17H,665,4243,4/15/2022,1,1,17,"Stackable washer and dryer
+Stainless steel appliances
+Gas stove",24,0,10 Hanover Square,UDR
+50,02-07-22,Apartment 09F,781,5064,4/23/2022,1,1,9,"Stackable washer and dryer
+Stainless steel appliances
+Gas stove",20,0,10 Hanover Square,UDR
+51,02-07-22,Apartment 16W,851,4788,4/23/2022,1,1,16,"West view
+Stackable washer and dryer
+Stainless steel appliances",33,0,10 Hanover Square,UDR
+52,02-07-22,Apartment 03T,550,3321,Now,0,1,3,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",47,0,10 Hanover Square,UDR
+53,02-07-22,Apartment 07S,556,3421,Now,0,1,7,"West view
+Quartz countertops
+Gray wood plank flooring",21,0,10 Hanover Square,UDR
+54,02-07-22,Apartment 12T,550,3416,Now,0,1,12,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",15,0,10 Hanover Square,UDR
+55,02-07-22,Apartment 18S,556,3311,Now,0,1,18,"West view
+Gas stove
+Breakfast bar",23,0,10 Hanover Square,UDR
+56,02-07-22,Apartment 19T,550,3361,Now,0,1,19,"Stainless steel appliances
+Gas stove
+Breakfast bar",14,0,10 Hanover Square,UDR
+57,02-07-22,Apartment 15N,581,3311,2/11/2022,0,1,15,"West view
+Gas stove
+Breakfast bar",24,0,10 Hanover Square,UDR
+58,02-07-22,Apartment 21S,556,3386,2/11/2022,0,1,21,"West view
+Gas stove
+Breakfast bar",14,0,10 Hanover Square,UDR
+59,02-07-22,Apartment 16X,431,3284,2/25/2022,0,1,16,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",33,0,10 Hanover Square,UDR
+60,02-07-22,Apartment 17Z,837,4196,2/25/2022,0,1,17,"Stackable washer and dryer
+Quartz countertops
+Gray wood plank flooring",32,0,10 Hanover Square,UDR
+61,02-07-22,Apartment 19N,581,3706,3/4/2022,0,1,19,"West view
+Quartz countertops
+Gray wood plank flooring",15,0,10 Hanover Square,UDR
+62,02-07-22,Apartment 14P,557,3336,3/5/2022,0,1,14,"West view
+Stainless steel appliances
+Gas stove",13,0,10 Hanover Square,UDR
+63,02-07-22,Apartment 21P,557,3656,3/5/2022,0,1,21,"West view
+Quartz countertops
+Gray wood plank flooring",10,0,10 Hanover Square,UDR
+64,02-07-22,Apartment 05C,589,3766,3/11/2022,0,1,5,"East River view
+Quartz countertops
+Gray wood plank flooring",17,0,10 Hanover Square,UDR
+65,02-07-22,Apartment 21J,600,3901,3/11/2022,0,1,21,"Stackable washer and dryer
+Quartz countertops
+Gray wood plank flooring",20,0,10 Hanover Square,UDR
+66,02-07-22,Apartment 04S,556,3856,3/19/2022,0,1,4,"West view
+Quartz countertops
+Modern cabinetry",10,0,10 Hanover Square,UDR
+67,02-07-22,Apartment 15K,924,4191,3/25/2022,0,1,15,"Stackable washer and dryer
+Stainless steel appliances
+Gas stove",11,0,10 Hanover Square,UDR
+68,02-07-22,Apartment 15J,600,4156,3/26/2022,0,1,15,"Stackable washer and dryer
+Quartz countertops
+Gray wood plank flooring",8,0,10 Hanover Square,UDR
+69,02-07-22,Apartment 04R,560,3956,4/2/2022,0,1,4,"West view
+Quartz countertops
+Gray wood plank flooring",7,0,10 Hanover Square,UDR
+70,02-07-22,Apartment 12P,557,3336,4/2/2022,0,1,12,"West view
+Stainless steel appliances
+Gas stove",9,0,10 Hanover Square,UDR
+71,02-07-22,Apartment 18Q,564,3956,4/2/2022,0,1,18,"West view
+Quartz countertops
+Gray wood plank flooring",7,0,10 Hanover Square,UDR
+72,02-07-22,Apartment 20R,560,3976,4/2/2022,0,1,20,"West view
+Quartz countertops
+Gray wood plank flooring",9,0,10 Hanover Square,UDR
+73,02-07-22,Apartment 06K,677,4331,4/8/2022,0,1,6,"Quartz countertops
+Gray wood plank flooring
+Modern cabinetry",6,0,10 Hanover Square,UDR
+74,02-07-22,Apartment 08D,679,3611,4/8/2022,0,1,8,"Gas stove
+Breakfast bar
+Soaking tub",12,0,10 Hanover Square,UDR
+75,02-07-22,Apartment 09R,560,3981,4/8/2022,0,1,9,"West view
+Quartz countertops
+Gray wood plank flooring",9,0,10 Hanover Square,UDR
+76,02-07-22,Apartment 23Q,564,4081,4/8/2022,0,1,23 - Top Floor,"West view
+Quartz countertops
+Gray wood plank flooring",10,0,10 Hanover Square,UDR
+77,02-07-22,Apartment 04U,545,3486,4/9/2022,0,1,4,"West view
+Gas stove
+Breakfast bar",7,0,10 Hanover Square,UDR
+78,02-07-22,Apartment 20P,557,3511,4/22/2022,0,1,20,"West view
+Stainless steel appliances
+Gas stove",12,0,10 Hanover Square,UDR
+79,02-07-22,Apartment 313,670,5210,Now,1,1,3,"Granite countertops
+Stainless steel appliances
+Hardwood floors",30,0,21 Chelsea,UDR
+80,02-07-22,Apartment 514,615,4925,Now,1,1,5,"Granite countertops
+Stainless steel appliances
+Hardwood floors",33,0,21 Chelsea,UDR
+81,02-07-22,Apartment 306,633,5130,2/19/2022,1,1,3,"Granite countertops
+Stainless steel appliances
+Hardwood floors",15,0,21 Chelsea,UDR
+82,02-07-22,Apartment 607,602,5029,2/19/2022,1,1,6,"Granite countertops
+Stainless steel appliances
+Hardwood floors",14,0,21 Chelsea,UDR
+83,02-07-22,Apartment 612,607,5029,2/19/2022,1,1,6,"Granite countertops
+Stainless steel appliances
+Hardwood floors",9,0,21 Chelsea,UDR
+84,02-07-22,Apartment 917,532,5016,2/26/2022,1,1,9,"Granite countertops
+Stainless steel appliances
+Hardwood floors",15,0,21 Chelsea,UDR
+85,02-07-22,Apartment 410,586,5019,3/11/2022,1,1,4,"Granite countertops
+Stainless steel appliances
+Hardwood floors",10,0,21 Chelsea,UDR
+86,02-07-22,Apartment 1008,605,5112,3/19/2022,1,1,10,"Granite countertops
+Stainless steel appliances
+Hardwood floors",20,0,21 Chelsea,UDR
+87,02-07-22,Apartment 718,449,4590,4/2/2022,0,1,7,"Granite countertops
+Stainless steel appliances
+Hardwood floors",19,0,21 Chelsea,UDR
+88,02-07-22,Apartment 1001,808,7298,3/18/2022,2,2,10,"Granite countertops
+Stainless steel appliances
+Hardwood floors",30,0,21 Chelsea,UDR
+89,02-07-22,Apartment 1404,818,4053,Now,0,1,14,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",39,0,95 Wall,UDR
+90,02-07-22,Apartment 1417,475,3249,Now,0,1,14,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",79,0,95 Wall,UDR
+91,02-07-22,Apartment 1910,583,3912,Now,0,1,19,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",22,0,95 Wall,UDR
+92,02-07-22,Apartment 217,475,3449,Now,0,1,2,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",20,0,95 Wall,UDR
+93,02-07-22,Apartment 301,551,3870,Now,0,1,3,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",12,0,95 Wall,UDR
+94,02-07-22,Apartment 410,576,3781,Now,0,1,4,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",15,0,95 Wall,UDR
+95,02-07-22,Apartment 425,623,3741,Now,0,1,4,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",13,0,95 Wall,UDR
+96,02-07-22,Apartment 909,618,3896,Now,0,1,9,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",15,0,95 Wall,UDR
+97,02-07-22,Apartment 703,495,3644,2/10/2022,0,1,7,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",13,0,95 Wall,UDR
+98,02-07-22,Apartment 817,475,3559,2/17/2022,0,1,8,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",18,0,95 Wall,UDR
+99,02-07-22,Apartment 1115,487,3579,3/4/2022,0,1,11,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",14,0,95 Wall,UDR
+100,02-07-22,Apartment 1717,480,3579,3/4/2022,0,1,17,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",13,0,95 Wall,UDR
+101,02-07-22,Apartment 2019,616,3807,3/4/2022,0,1,20,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",18,0,95 Wall,UDR
+102,02-07-22,Apartment 721,557,3742,3/4/2022,0,1,7,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",19,0,95 Wall,UDR
+103,02-07-22,Apartment 1708,575,3911,3/9/2022,0,1,17,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",0,0,95 Wall,UDR
+104,02-07-22,Apartment 1501,551,3856,3/10/2022,0,1,15,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",12,0,95 Wall,UDR
+105,02-07-22,Apartment 725,623,3831,3/18/2022,0,1,7,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",13,0,95 Wall,UDR
+106,02-07-22,Apartment 2320,470,3819,3/31/2022,0,1,23 - Top Floor,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",11,0,95 Wall,UDR
+107,02-07-22,Apartment 2325,425,3779,4/1/2022,0,1,23 - Top Floor,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",12,0,95 Wall,UDR
+108,02-07-22,Apartment 2120,470,3804,4/21/2022,0,1,21,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",13,0,95 Wall,UDR
+109,02-07-22,Apartment 1216,487,3824,4/28/2022,0,1,12,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",8,0,95 Wall,UDR
+110,02-07-22,Apartment 1522,947,5906,Now,1,1,15,"East River view
+Corner location
+Stackable washer and dryer",60,0,95 Wall,UDR
+111,02-07-22,Apartment 224,886,4598,Now,1,1,2,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",44,0,95 Wall,UDR
+112,02-07-22,Apartment 406,674,4591,Now,1,1,4,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",30,0,95 Wall,UDR
+113,02-07-22,Apartment 923,818,4681,Now,1,1,9,"Stackable washer and dryer
+Marble countertops & backsplash
+Hardwood floors",28,0,95 Wall,UDR
+114,02-07-22,Apartment S12X,432,3274,Now,0,1,12,Smart home package,119,0,View 34,UDR
+115,02-07-22,Apartment N16P,678,4006,Now,1,1,16,"Smart home package
+Hardwood floors",134,1,View 34,UDR
+116,02-07-22,Apartment N22F,675,4215,Now,1,1,22,"Smart home package
+Hardwood floors",53,1,View 34,UDR
+117,02-07-22,Apartment S16F,675,4381,Now,1,1,16,"River view
+Smart home package
+Hardwood floors",31,1,View 34,UDR
+118,02-07-22,Apartment S17P,678,3855,Now,1,1,17,"Smart home package
+Hardwood floors",100,1,View 34,UDR
+119,02-07-22,Apartment N24D,965,4906,2/10/2022,1,1.5,24,"River view
+Smart home package
+Hardwood floors",54,0,View 34,UDR
+120,02-07-22,Apartment S07M,567,4159,2/10/2022,1,1,7,"Smart home package
+Bookcase divider",33,0,View 34,UDR
+121,02-07-22,Apartment S20K,567,4236,2/10/2022,1,1,20,"Smart home package
+Hardwood floors",19,0,View 34,UDR
+122,02-07-22,Apartment S21K,567,4221,3/3/2022,1,1,21,Smart home package,17,0,View 34,UDR
+123,02-07-22,Apartment N27K,678,3990,3/5/2022,1,1,27,Smart home package,39,0,View 34,UDR
+124,02-07-22,Apartment N34D,965,5245,3/9/2022,1,1.5,34,"River view
+Smart home package
+Bookcase divider",29,0,View 34,UDR
+125,02-07-22,Apartment N25J,587,4167,3/10/2022,1,1,25,"Smart home package
+Hardwood floors
+Closet built-ins",26,0,View 34,UDR
+126,02-07-22,Apartment N03B,1018,5428,3/16/2022,1,2,3,"Smart home package
+Oversized kitchen
+Hardwood floors",28,0,View 34,UDR
+127,02-07-22,Apartment S23G,740,6323,3/16/2022,1,1,23,"Corner location
+Smart home package
+Hardwood floors",31,0,View 34,UDR
+128,02-07-22,Apartment S15M,567,4264,3/17/2022,1,1,15,"Smart home package
+Hardwood floors",18,0,View 34,UDR
+129,02-07-22,Apartment N09P,678,4122,3/24/2022,1,1,9,Smart home package,19,0,View 34,UDR
+130,02-07-22,Apartment N19M,678,4314,3/24/2022,1,1,19,"Smart home package
+Hardwood floors
+Closet built-ins",11,0,View 34,UDR
+131,02-07-22,Apartment S27B,1018,5641,3/24/2022,1,2,27,"Smart home package
+Oversized kitchen
+Hardwood floors",19,0,View 34,UDR
+132,02-07-22,Apartment S09L,683,4212,3/30/2022,1,1,9,"Smart home package
+Hardwood floors",15,0,View 34,UDR
+133,02-07-22,Apartment N20D,965,5562,3/31/2022,1,1.5,20,"Smart home package
+Hardwood floors
+Closet built-ins",11,0,View 34,UDR
+134,02-07-22,Apartment N20K,567,4523,4/6/2022,1,1,20,"Smart home package
+Hardwood floors",8,0,View 34,UDR
+135,02-07-22,Apartment S23F,675,4444,4/6/2022,1,1,23,"Smart home package
+Hardwood floors",8,0,View 34,UDR
+136,02-07-22,Apartment N04B,1018,5505,4/7/2022,1,2,4,"Smart home package
+Oversized kitchen
+Hardwood floors",15,0,View 34,UDR
+137,02-07-22,Apartment N05F,675,4542,4/7/2022,1,1,5,"River view
+Smart home package
+Hardwood floors",10,0,View 34,UDR
+138,02-07-22,Apartment N16L,683,4217,4/7/2022,1,1,16,"Smart home package
+Bookcase divider",14,0,View 34,UDR
+139,02-07-22,Apartment S23H,587,6008,4/9/2022,1,1,23,"Corner location
+Smart home package
+Terrace",15,0,View 34,UDR
+140,02-07-22,Apartment N08B,1018,5442,4/13/2022,1,2,8,"Smart home package
+Oversized kitchen
+Hardwood floors",5,0,View 34,UDR
+141,02-07-22,Apartment S22K,567,4694,4/13/2022,1,1,22,"Smart home package
+Hardwood floors
+Sliding glass wall divider",11,0,View 34,UDR
+142,02-07-22,Apartment S24D,521,3904,4/13/2022,1,1,24,"Smart home package
+Balcony",36,0,View 34,UDR
+143,02-07-22,Apartment N25D,965,5169,4/14/2022,1,1.5,25,"River view
+Smart home package
+Hardwood floors",8,0,View 34,UDR
+144,02-07-22,Apartment N35D,965,5364,4/20/2022,1,1.5,35 - Top Floor,"River view
+Smart home package
+Hardwood floors",5,0,View 34,UDR
+145,02-07-22,Apartment S18L,587,4248,4/20/2022,1,1,18,"Smart home package
+Hardwood floors",14,0,View 34,UDR
+146,02-07-22,Apartment N29D,965,5453,4/28/2022,1,1.5,29,"River view
+Smart home package
+Hardwood floors",14,0,View 34,UDR
+147,02-07-22,Apartment N15G,636,4302,5/5/2022,1,1,15,"River view
+Smart home package",14,0,View 34,UDR
+148,02-07-22,Apartment N04C,1290,7290,Now,3,2,4,"River view
+Corner location
+Smart home package",48,1,View 34,UDR
+149,02-07-22,Apartment N20C,1290,7919,Now,3,2,20,"Corner location
+Smart home package
+Stackable washer and dryer",37,1,View 34,UDR
+150,02-07-22,Apartment S03C,1290,6995,Now,3,2,3,"Corner location
+Smart home package
+Oversized kitchen",45,1,View 34,UDR
+151,02-07-22,Apartment N09J,1275,7084,4/6/2022,3,2,9,"River view
+Corner location
+Smart home package",38,0,View 34,UDR
+152,02-07-22,Apartment S05K,1085,5924,2/17/2022,2,2,5,"Corner location
+Smart home package
+Hardwood floors",56,0,View 34,UDR
+153,02-07-22,Apartment S04B,1018,5634,3/10/2022,2,2,4,"Smart home package
+Oversized kitchen
+Hardwood floors",56,0,View 34,UDR
+154,02-07-22,Apartment N09K,1085,6113,3/16/2022,2,2,9,"River view
+Corner location
+Smart home package",23,0,View 34,UDR
+155,02-07-22,Apartment N29B,1018,6017,3/17/2022,2,2,29,"Smart home package
+Oversized kitchen
+Hardwood floors",31,0,View 34,UDR
+156,02-07-22,Apartment S05A,1343,7357,3/24/2022,2,2,5,"Smart home package
+Hardwood floors
+Balcony",24,0,View 34,UDR
+157,02-07-22,Apartment S28B,1018,6394,4/14/2022,2,2,28,"Smart home package
+Oversized kitchen
+Balcony",11,0,View 34,UDR
+158,02-07-22,Apartment S09A,1343,7795,5/5/2022,2,2,9,"Smart home package
+Hardwood floors
+Balcony",21,0,View 34,UDR
