@@ -119,3 +119,93 @@
 3,Leonard Pointe,02-25-22,1,2,0,,,,UDR
 4,Columbus Square,02-25-22,5,29,13,1.0,0.0,,UDR
 5,View 34,02-25-22,3,38,9,4.0,,,UDR
+0,Leonard Pointe,02-26-22,1,2,0,,,,UDR
+1,View 34,02-26-22,3,38,9,4.0,,,UDR
+2,21 Chelsea,02-26-22,2,6,1,,,0.0,UDR
+3,95 Wall,02-26-22,12,1,4,0.0,,,UDR
+4,10 Hanover Square,02-26-22,27,9,0,0.0,,,UDR
+5,Columbus Square,02-26-22,5,29,13,0.0,0.0,,UDR
+0,95 Wall,02-27-22,12,1,3,0.0,,,UDR
+1,Leonard Pointe,02-27-22,1,2,0,,,,UDR
+2,Columbus Square,02-27-22,5,29,13,0.0,0.0,,UDR
+3,View 34,02-27-22,3,38,9,4.0,,,UDR
+4,21 Chelsea,02-27-22,2,6,0,,,0.0,UDR
+5,10 Hanover Square,02-27-22,27,9,0,0.0,,,UDR
+0,View 34,02-28-22,3,38,9,4.0,,,UDR
+1,Columbus Square,02-28-22,4,27,13,0.0,0.0,,UDR
+2,Leonard Pointe,02-28-22,1,1,0,,,,UDR
+3,10 Hanover Square,02-28-22,24,8,0,0.0,,,UDR
+4,21 Chelsea,02-28-22,2,6,0,,,0.0,UDR
+5,95 Wall,02-28-22,12,1,3,0.0,,,UDR
+0,Leonard Pointe,03-01-22,1,1,0,,,,UDR
+1,95 Wall,03-01-22,12,2,3,0.0,,,UDR
+2,View 34,03-01-22,3,38,9,4.0,,,UDR
+3,21 Chelsea,03-01-22,2,6,0,,,0.0,UDR
+4,Columbus Square,03-01-22,4,30,12,0.0,0.0,,UDR
+5,10 Hanover Square,03-01-22,27,9,0,0.0,,,UDR
+0,95 Wall,03-02-22,14,2,3,0.0,,,UDR
+1,Leonard Pointe,03-02-22,1,1,0,,,,UDR
+2,10 Hanover Square,03-02-22,29,9,0,0.0,,,UDR
+3,Columbus Square,03-02-22,6,33,11,0.0,0.0,,UDR
+4,View 34,03-02-22,3,41,10,4.0,,,UDR
+5,21 Chelsea,03-02-22,2,6,0,,,0.0,UDR
+0,21 Chelsea,03-03-22,2,7,0,,,0.0,UDR
+1,10 Hanover Square,03-03-22,29,10,0,0.0,,,UDR
+2,95 Wall,03-03-22,13,2,3,0.0,,,UDR
+3,View 34,03-03-22,2,44,11,4.0,,,UDR
+4,Leonard Pointe,03-03-22,1,2,0,,,,UDR
+5,Columbus Square,03-03-22,7,32,10,0.0,0.0,,UDR
+0,Leonard Pointe,03-04-22,1,2,0,,,,UDR
+1,95 Wall,03-04-22,13,2,3,0.0,,,UDR
+2,21 Chelsea,03-04-22,2,7,0,,,0.0,UDR
+3,View 34,03-04-22,2,49,12,4.0,,,UDR
+4,10 Hanover Square,03-04-22,29,10,0,0.0,,,UDR
+5,Columbus Square,03-04-22,7,32,11,0.0,0.0,,UDR
+0,View 34,03-05-22,2,47,12,5.0,,,UDR
+1,Columbus Square,03-05-22,7,31,11,0.0,0.0,,UDR
+2,95 Wall,03-05-22,13,2,3,0.0,,,UDR
+3,Leonard Pointe,03-05-22,1,1,0,,,,UDR
+4,21 Chelsea,03-05-22,2,7,0,,,0.0,UDR
+5,10 Hanover Square,03-05-22,29,10,0,0.0,,,UDR
+0,View 34,03-06-22,2,47,12,5.0,,,UDR
+1,10 Hanover Square,03-06-22,29,10,0,0.0,,,UDR
+2,21 Chelsea,03-06-22,2,7,0,,,0.0,UDR
+3,95 Wall,03-06-22,11,2,3,0.0,,,UDR
+4,Leonard Pointe,03-06-22,1,2,0,,,,UDR
+5,Columbus Square,03-06-22,7,31,11,0.0,0.0,,UDR
+0,95 Wall,03-07-22,11,2,3,0.0,,,UDR
+1,Columbus Square,03-07-22,7,31,11,0.0,0.0,,UDR
+2,Leonard Pointe,03-07-22,1,2,0,,,,UDR
+3,View 34,03-07-22,2,47,12,5.0,,,UDR
+4,21 Chelsea,03-07-22,2,7,0,,,0.0,UDR
+5,10 Hanover Square,03-07-22,29,10,0,0.0,,,UDR
+0,10 Hanover Square,03-08-22,29,10,0,0.0,,,UDR
+1,95 Wall,03-08-22,12,2,3,0.0,,,UDR
+2,21 Chelsea,03-08-22,2,8,0,,,0.0,UDR
+3,Columbus Square,03-08-22,8,30,11,0.0,0.0,,UDR
+4,Leonard Pointe,03-08-22,0,2,0,,,,UDR
+5,View 34,03-08-22,1,48,12,5.0,,,UDR
+0,View 34,03-09-22,1,47,12,6.0,,,UDR
+1,95 Wall,03-09-22,11,2,3,0.0,,,UDR
+2,21 Chelsea,03-09-22,2,8,0,,,0.0,UDR
+3,Leonard Pointe,03-09-22,0,2,0,,,,UDR
+4,Columbus Square,03-09-22,9,32,11,0.0,0.0,,UDR
+5,10 Hanover Square,03-09-22,29,10,0,0.0,,,UDR
+0,Columbus Square,03-10-22,9,32,11,0.0,0.0,,UDR
+1,10 Hanover Square,03-10-22,29,11,0,0.0,,,UDR
+2,95 Wall,03-10-22,14,2,4,0.0,,,UDR
+3,View 34,03-10-22,1,50,12,7.0,,,UDR
+4,21 Chelsea,03-10-22,3,11,0,,,0.0,UDR
+5,Leonard Pointe,03-10-22,0,2,0,,,,UDR
+0,Leonard Pointe,03-11-22,0,2,0,,,,UDR
+1,10 Hanover Square,03-11-22,30,12,0,0.0,,,UDR
+2,21 Chelsea,03-11-22,3,11,0,,,0.0,UDR
+3,95 Wall,03-11-22,15,2,4,0.0,,,UDR
+4,Columbus Square,03-11-22,9,31,11,0.0,0.0,,UDR
+5,View 34,03-11-22,1,51,10,8.0,,,UDR
+0,Leonard Pointe,03-12-22,0,1,0,,,,UDR
+1,Columbus Square,03-12-22,9,31,11,0.0,0.0,,UDR
+2,95 Wall,03-12-22,15,2,4,0.0,,,UDR
+3,10 Hanover Square,03-12-22,30,12,0,0.0,,,UDR
+4,21 Chelsea,03-12-22,3,11,0,,,0.0,UDR
+5,View 34,03-12-22,1,52,10,8.0,,,UDR
